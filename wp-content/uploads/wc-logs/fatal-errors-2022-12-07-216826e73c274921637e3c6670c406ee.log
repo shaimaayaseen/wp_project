@@ -1,0 +1,2 @@
+2022-12-07T07:00:05+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 151552 bytes) in C:\xampp\htdocs\four_p\wp-admin\admin-ajax.php on line 39
+
